@@ -1,0 +1,5 @@
+import streamlit as st
+
+st.set_page_config(page_title="Prediction2")
+st.title("Predictions2")
+st.harder("Predictions2")
